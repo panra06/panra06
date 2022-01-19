@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @panra06
-- 🌱 I’m currently learning HTML, CSS, and JavaScript
+- ❤ I'm interested in Web Programming
+- 🌱 And currently learning HTML, CSS, and JavaScript
 - 📫 Feel free to reach me: silvanuspanra@gmail.com
 
 <!---
